@@ -1,0 +1,17 @@
+<ConfigVigame>
+    <GameOpenActivity>com.example.appdemo.MainActivity</GameOpenActivity>
+    <ScreenOrientation>portrait</ScreenOrientation>
+    <SupportAdPositions>splash,banner,pause,mfzs</SupportAdPositions>
+    <FixSpecialScreen>true</FixSpecialScreen>
+    <SplashTime>3500</SplashTime>
+    <Permissions>READ_PHONE_STATE,ACCESS_FINE_LOCATION,WRITE_EXTERNAL_STORAGE</Permissions>
+    <IsSDK>true</IsSDK><!--请勿修改该属性-->
+    <HealthEnable>true</HealthEnable>
+    <HealthColor>FF00FF00</HealthColor>
+    <SupportAdPositions>splash,banner,pause,level_win,level_fail,gift_reward,gift_speed,home_mfzs,pause_mfzs,level_fail_mfzs</SupportAdPositions>
+    <CopyrightPerson>著作权人：深圳市动能无线传媒有限公司</CopyrightPerson>
+    <CopyrightNum>批准文号：测试批准文号</CopyrightNum>
+    <PublicationNum>出版物号：测试出版物号</PublicationNum>
+    <PublicationPerson>出版服务单位：测试出版服务单位</PublicationPerson>
+    <RegisteredNum>游戏运营备案号：测试运营备案号</RegisteredNum>
+</ConfigVigame>
